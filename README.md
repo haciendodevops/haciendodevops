@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**haciendodevops/haciendodevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-Here are some ideas to get you started:
+#### Hola! este es el espacio de trabajo que usamos en @haciendodevops, bienvenido! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+##### BIO
+
+
+- 👓 Creador : [Maximiliano Herrera](https://www.linkedin.com/in/maximiliano-herrera-devops/)
+- 📷 Instagram : [@haciendodevops](https://www.instagram.com/haciendodevops?igsh=MWdncWlianJjaXRpZQ==)
+
